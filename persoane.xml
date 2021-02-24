@@ -4,5 +4,45 @@
         <nume>Popescu</nume>
         <prenume>Ion</prenume>
         <varsta>23</varsta>
+        <adresa>
+            <strada>Darmanesti</strada>
+            <numar>32</numar>
+            <localitate>Piatra-Neamt</localitate>
+            <judet>Neamt</judet>
+            <tara>Romania</tara>
+            <facultate>AC</facultate>
+            <experienta>fara</experienta>
+                       
+        </adresa>
+    </persoana>
+    <persoana id="2">
+        <nume>Axinte</nume>
+        <prenume>Ioana</prenume>
+        <varsta>21</varsta>
+        <adresa>
+            <strada>iuliu maniu</strada>
+            <numar>88</numar>
+            <localitate>Iasi</localitate>
+            <judet>Iasi</judet>
+            <tara>Romania</tara>
+            <facultate>IEEIA</facultate>
+            <experienta>fara</experienta>
+                       
+        </adresa>
+    </persoana>
+    <persoana id="3">
+        <nume>Popa</nume>
+        <prenume>Iona</prenume>
+        <varsta>29</varsta>
+        <adresa>
+            <strada>Darmin</strada>
+            <numar>23</numar>
+            <localitate>Piatra-Neamt</localitate>
+            <judet>Neamt</judet>
+            <tara>Romania</tara>
+            <facultate>AC</facultate>
+            <experienta>3</experienta>
+                       
+        </adresa>
     </persoana>
 </persoane>
